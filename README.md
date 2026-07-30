@@ -136,21 +136,7 @@ The platform integrates **solar panels**, **wind turbines**, **battery storage**
 
 # 📷 Screenshots
 
-> Add screenshots after deployment.
 
-| Landing Page | Dashboard |
-|--------------|-----------|
-| Screenshot | Screenshot |
-
-| Forecast | Battery |
-|-----------|----------|
-| Screenshot | Screenshot |
-
-| Analytics | Carbon Dashboard |
-|------------|------------------|
-| Screenshot | Screenshot |
-
----
 
 # 📂 Project Structure
 
